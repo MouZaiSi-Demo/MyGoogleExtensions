@@ -41,3 +41,6 @@
 
 [SingleFile](https://chrome.google.com/webstore/detail/singlefile/mpiodijhokgodhhofbcjdecpffjipkle/related?hl=zh-CN)
 Html save
+
+## RSS
+[RSSHub Radar](https://chrome.google.com/webstore/detail/rsshub-radar/kefjpfngnndepjbopdmoebkipbgkggaa/related?hl=zh-CN)
