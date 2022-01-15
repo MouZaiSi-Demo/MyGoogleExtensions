@@ -1,7 +1,10 @@
 # MyGoogleExtensions
 
-## AD
+## Advertise
 [Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus-free-ad-bloc/cfhdojbkjhnklbpkdaibdccddilifddb?hl=zh-CN)
+
+[uBlock Origin](https://github.com/gorhill/uBlock)
+
 
 ## Github
 [GitHub Colorful Contributions](https://chrome.google.com/webstore/detail/github-colorful-contribut/nmlemiahmhcclpifhmpbjbikdgbndief)
@@ -15,6 +18,10 @@
 
 [Google 翻译](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb)
 
+## Web Reading
+[Stylus](https://github.com/openstyles/stylus/)
+
+[userstyles.org](https://userstyles.org/) Stylus可以找到其他用户编写并发布在`userstyles.org`中的样式
 
 ## Download
 [IDM Integration Module](https://chrome.google.com/webstore/detail/idm-integration-module/ngpampappnmepgilojfohadhhmbhlaek)
