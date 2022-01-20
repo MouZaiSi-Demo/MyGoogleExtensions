@@ -1,9 +1,11 @@
 # MyGoogleExtensions
 
-## Advertise
+## Security and Privacy
 [Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus-free-ad-bloc/cfhdojbkjhnklbpkdaibdccddilifddb?hl=zh-CN)
 
 [uBlock Origin](https://github.com/gorhill/uBlock)
+
+[HTTPS Everywhere](https://github.com/EFForg/https-everywhere)
 
 
 ## Github
